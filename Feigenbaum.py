@@ -18,7 +18,6 @@ last = 100
 
 x = 1e-5*np.ones(n)
 
-
 print(r)
 print(x)
 
